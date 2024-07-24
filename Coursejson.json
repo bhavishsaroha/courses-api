@@ -1,0 +1,75 @@
+    {
+        "Courses":[
+            {
+                "id" : 1,
+                "title": "Introduction to Python",
+                "description": "Learn the basics of Python programming.",
+                "instructor": "A",
+                "duration": "6 weeks"
+            },
+            {
+                "id": 2,
+                "title": "Advanced JavaScript",
+                "description": "Deep dive into JavaScript and its advanced concepts.",
+                "instructor": "B",
+                "duration": "8 weeks"
+            },
+            {
+                "id": 3,
+                "title": "Data Structures in C",
+                "description": "Understand the fundamentals of data structures using C.",
+                "instructor": "C",
+                "duration": "10 weeks"
+              },
+              {
+                "id": 4,
+                "title": "Machine Learning Basics",
+                "description": "Introduction to machine learning concepts and techniques.",
+                "instructor": "D",
+                "duration": "12 weeks"
+              },
+              {
+                "id": 5,
+                "title": "Web Development with React",
+                "description": "Build modern web applications using React.js.",
+                "instructor": "E",
+                "duration": "10 weeks"
+              },
+              {
+                "id": 6,
+                "title": "Database Management Systems",
+                "description": "Learn about relational and non-relational database systems.",
+                "instructor": "F",
+                "duration": "8 weeks"
+              },
+              {
+                "id": 7,
+                "title": "Cybersecurity Fundamentals",
+                "description": "Understand the basics of cybersecurity and how to protect systems.",
+                "instructor": "G",
+                "duration": "6 weeks"
+              },
+              {
+                "id": 8,
+                "title": "Mobile App Development with Flutter",
+                "description": "Create cross-platform mobile applications using Flutter.",
+                "instructor": "H",
+                "duration": "10 weeks"
+              },
+              {
+                "id": 9,
+                "title": "Introduction to Cloud Computing",
+                "description": "Learn the essentials of cloud computing and cloud services.",
+                "instructor": "I",
+                "duration": "8 weeks"
+              },
+              {
+                "id": 10,
+                "title": "DevOps Practices and Tools",
+                "description": "Explore the DevOps culture and tools for continuous integration and deployment.",
+                "instructor": "J",
+                "duration": "9 weeks"
+              }
+        ]
+    }
+
