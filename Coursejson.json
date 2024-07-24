@@ -1,5 +1,5 @@
     {
-        "Courses":[
+        "courses":[
             {
                 "id" : 1,
                 "title": "Introduction to Python",
